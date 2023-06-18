@@ -344,13 +344,13 @@
       "mobile"
     ]
   },
-  "CascaderSelectMobileFirst": {
-    "path": "vue/src/cascader-select/src/mobile-first.vue",
+  "CascaderSelectMobile": {
+    "path": "vue/src/cascader-select/src/mobile.vue",
     "type": "template",
     "exclude": false
   },
-  "CascaderSelectMobile": {
-    "path": "vue/src/cascader-select/src/mobile.vue",
+  "CascaderSelectMobileFirst": {
+    "path": "vue/src/cascader-select/src/mobile-first.vue",
     "type": "template",
     "exclude": false
   },
@@ -593,6 +593,19 @@
     "mode": [
       "pc"
     ]
+  },
+  "ColorPicker": {
+    "path": "vue/src/color-picker/index.ts",
+    "type": "component",
+    "exclude": false,
+    "mode": [
+      "pc"
+    ]
+  },
+  "ColorPickerPc": {
+    "path": "vue/src/color-picker/src/pc.vue",
+    "type": "template",
+    "exclude": false
   },
   "ColumnListGroup": {
     "path": "vue/src/column-list-group/index.ts",

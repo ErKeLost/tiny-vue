@@ -1,0 +1,10 @@
+[
+    {
+        "title": "基本用法",
+        "content": "详细用法参考如下示例",
+        "link": "color-picker/base",
+        "component": "Colorpicker 颜色选择器",
+        "findIntroStr": "我是colorpicker",
+        "demoId": "base"
+    }
+]

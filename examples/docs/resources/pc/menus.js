@@ -255,6 +255,12 @@ const routerArr = [
         path: '/button-group'
       },
       {
+        en: 'ColorPicker',
+        zh: '颜色选择器',
+        enSuffix: true,
+        path: '/color-picker'
+      },
+      {
         en: 'Cascader',
         zh: '级联选择器',
         enSuffix: true,
